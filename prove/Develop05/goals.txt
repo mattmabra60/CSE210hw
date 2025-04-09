@@ -1,0 +1,2 @@
+0
+SimpleGoal|Read the scriptures|read|100|False
